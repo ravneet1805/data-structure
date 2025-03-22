@@ -35,6 +35,6 @@ class SelectionSort {
             System.out.print(score + " ");
         }
 
-        in.close();
+
     }
 }

@@ -57,6 +57,6 @@ class MergeSort {
             System.out.print(price + " ");
         }
 
-        in.close();
+
     }
 }

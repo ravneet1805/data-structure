@@ -57,6 +57,6 @@ class HeapSort {
             System.out.print(salary + " ");
         }
 
-        in.close();
+
     }
 }

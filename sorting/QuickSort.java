@@ -52,6 +52,6 @@ class QuickSort {
             System.out.print(price + " ");
         }
 
-        in.close();
+
     }
 }

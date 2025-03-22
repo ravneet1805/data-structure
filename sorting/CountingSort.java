@@ -49,6 +49,6 @@ class CountingSort {
             System.out.print(age + " ");
         }
 
-        in.close();
+
     }
 }
